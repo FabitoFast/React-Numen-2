@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
       <main>
       <h1> hola mundo </h1>
+      <h2>segundo cambio</h2>
       </main>
     </>
   )
